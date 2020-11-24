@@ -1,0 +1,58 @@
+.container{
+    max-width:960px;
+    margin:0 auto;
+    background:#f9f9f9;
+    font-size: 24px;
+    
+}
+::-webkit-scrollbar-track {
+ 
+  border-radius: 10px;
+}
+.par3{
+    background: url("https://vignette.wikia.nocookie.net/river-monsters/images/d/dd/Resident_orca.png/revision/latest?cb=20190429070329")no-repeat center;
+    background-size: cover ;
+    height:618px;
+}
+.par2{
+  background: url("https://vignette.wikia.nocookie.net/river-monsters/images/d/dd/Resident_orca.png/revision/latest?cb=20190429070329")no-repeat center;
+  background-size: cover ;
+  height:618px;
+}
+.i{
+ padding: 25px;
+ margin-left: 200;   
+
+}
+#darken:hover {
+  background-color:rgba(255, 255, 255, 0);
+}
+#a{
+    background-color:#eeeeff;
+    
+    height: 280px;
+    width:400px;
+    border-style:solid;
+    border-color: rgb(190, 208, 255);
+}
+
+.c{
+    float: left;
+    width: 33%;
+  
+}
+.i::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #b{
+    height: 280px;
+     width: 400px;
+     border-radius: 10%; 
+       border-style:solid;
+    border-color: rgb(190, 208, 255);
+  }
+  #darken:hover{
+    background-color:rgba(0,0,0,0.0);
+  } 
